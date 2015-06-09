@@ -1,0 +1,15 @@
+C:\Users\Steven\Documents\Visual Studio 2013\Projects\APIHypermediaPrototype\Tests\bin\Debug\Tests.dll
+C:\Users\Steven\Documents\Visual Studio 2013\Projects\APIHypermediaPrototype\Tests\bin\Debug\Tests.pdb
+C:\Users\Steven\Documents\Visual Studio 2013\Projects\APIHypermediaPrototype\Tests\bin\Debug\APIHypermediaPrototype.dll
+C:\Users\Steven\Documents\Visual Studio 2013\Projects\APIHypermediaPrototype\Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Steven\Documents\Visual Studio 2013\Projects\APIHypermediaPrototype\Tests\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Steven\Documents\Visual Studio 2013\Projects\APIHypermediaPrototype\Tests\bin\Debug\System.Web.Http.dll
+C:\Users\Steven\Documents\Visual Studio 2013\Projects\APIHypermediaPrototype\Tests\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\Steven\Documents\Visual Studio 2013\Projects\APIHypermediaPrototype\Tests\bin\Debug\APIHypermediaPrototype.pdb
+C:\Users\Steven\Documents\Visual Studio 2013\Projects\APIHypermediaPrototype\Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Steven\Documents\Visual Studio 2013\Projects\APIHypermediaPrototype\Tests\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Steven\Documents\Visual Studio 2013\Projects\APIHypermediaPrototype\Tests\bin\Debug\System.Web.Http.xml
+C:\Users\Steven\Documents\Visual Studio 2013\Projects\APIHypermediaPrototype\Tests\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\Steven\Documents\Visual Studio 2013\Projects\APIHypermediaPrototype\Tests\obj\Debug\Tests.csprojResolveAssemblyReference.cache
+C:\Users\Steven\Documents\Visual Studio 2013\Projects\APIHypermediaPrototype\Tests\obj\Debug\Tests.dll
+C:\Users\Steven\Documents\Visual Studio 2013\Projects\APIHypermediaPrototype\Tests\obj\Debug\Tests.pdb

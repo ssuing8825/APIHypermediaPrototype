@@ -1,0 +1,14 @@
+C:\Users\Steven\Documents\Visual Studio 2013\Projects\APIHypermediaPrototype\APIHypermediaPrototype\obj\Debug\APIHypermediaPrototype.csprojResolveAssemblyReference.cache
+C:\Users\Steven\Documents\Visual Studio 2013\Projects\APIHypermediaPrototype\APIHypermediaPrototype\bin\APIHypermediaPrototype.dll.config
+C:\Users\Steven\Documents\Visual Studio 2013\Projects\APIHypermediaPrototype\APIHypermediaPrototype\bin\APIHypermediaPrototype.dll
+C:\Users\Steven\Documents\Visual Studio 2013\Projects\APIHypermediaPrototype\APIHypermediaPrototype\bin\APIHypermediaPrototype.pdb
+C:\Users\Steven\Documents\Visual Studio 2013\Projects\APIHypermediaPrototype\APIHypermediaPrototype\bin\Newtonsoft.Json.dll
+C:\Users\Steven\Documents\Visual Studio 2013\Projects\APIHypermediaPrototype\APIHypermediaPrototype\bin\System.Net.Http.Formatting.dll
+C:\Users\Steven\Documents\Visual Studio 2013\Projects\APIHypermediaPrototype\APIHypermediaPrototype\bin\System.Web.Http.dll
+C:\Users\Steven\Documents\Visual Studio 2013\Projects\APIHypermediaPrototype\APIHypermediaPrototype\bin\System.Web.Http.WebHost.dll
+C:\Users\Steven\Documents\Visual Studio 2013\Projects\APIHypermediaPrototype\APIHypermediaPrototype\bin\Newtonsoft.Json.xml
+C:\Users\Steven\Documents\Visual Studio 2013\Projects\APIHypermediaPrototype\APIHypermediaPrototype\bin\System.Net.Http.Formatting.xml
+C:\Users\Steven\Documents\Visual Studio 2013\Projects\APIHypermediaPrototype\APIHypermediaPrototype\bin\System.Web.Http.xml
+C:\Users\Steven\Documents\Visual Studio 2013\Projects\APIHypermediaPrototype\APIHypermediaPrototype\bin\System.Web.Http.WebHost.xml
+C:\Users\Steven\Documents\Visual Studio 2013\Projects\APIHypermediaPrototype\APIHypermediaPrototype\obj\Debug\APIHypermediaPrototype.dll
+C:\Users\Steven\Documents\Visual Studio 2013\Projects\APIHypermediaPrototype\APIHypermediaPrototype\obj\Debug\APIHypermediaPrototype.pdb
